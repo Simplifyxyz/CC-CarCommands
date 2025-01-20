@@ -56,8 +56,7 @@ Both commands are simple to use and control the doors and windows of vehicles in
 ## Requirements
 
 - **FiveM server**
-- **Lua environment** for FiveM scripting
-
+  
 ---
 
 ## License
